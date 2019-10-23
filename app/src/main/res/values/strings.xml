@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Progress Notification</string>
+    <string name="deter">Show Determinate</string>
+    <string name="indeter">Show Indeterminate</string>
+</resources>
